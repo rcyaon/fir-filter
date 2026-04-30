@@ -2,8 +2,6 @@ gonna simulate on the tang nano 20k when i'md oen
 
 reminder i can run `gw_sh` for resource report 
 
-reminder i can run `gw_sh` for resource report
-
 ## Testing flow
 ### 1. Generate real coefficients (replaces placeholders in `fir_filter.v`)
 
