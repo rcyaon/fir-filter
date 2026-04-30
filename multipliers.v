@@ -3,7 +3,7 @@
 //========================================================================
 //
 // Does many multiplications at once: each filter coefficient times an input value for the FIR filter
-// Filter numbers are loaded from coeffs.mem 
+// Filter numbers are loaded from coeffs.mem, where coefficient are precalculated. We look them up here --> Multiply
 
 `ifndef MULTIPLIERS_V
 `define MULTIPLIERS_V
