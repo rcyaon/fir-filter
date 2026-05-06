@@ -1,3 +1,5 @@
+![](https://github.com/rcyaon/firfilter/blob/main/sketch.png?raw=true)
+
 gonna simulate on the tang nano 20k when i'md oen
 
 reminder i can run `gw_sh` for resource report 
